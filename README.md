@@ -7,7 +7,10 @@
 - 😄 Pronouns: Football Freak
 - 🎤 Podcast: [CryptoCrazy]
 
-[![Mayank's github stats](https://github-readme-stats.vercel.app/api?username=mayank0508&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank0508&theme=chartreuse-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img align="center" src=https://github-readme-stats.vercel.app/api?username=mayank0508&theme=chartreuse-dark&show_icons=true&show_icons=true&custom_title=%23%20GitHub%20Stats%20%E2%9C%85" width="460" />
+  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=mayank0508&theme=chartreuse-dark&langs_count=8count=10&custom_title=%23%20Most%20Used%20Languages%20%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" />
+</p>
 
 
 ### Connect with me:
