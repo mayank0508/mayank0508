@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank0508&theme=dark" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank0508&theme=highcontrast" />
 
 ### Hey Guys ! 🤘🏻
 
