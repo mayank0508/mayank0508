@@ -18,7 +18,7 @@
 
   
   <img align="center" src=https://github-readme-stats.vercel.app/api?username=mayank0508&theme=chartreuse-dark&show_icons=true&show_icons=true&custom_title=%23%20GitHub%20Stats%20%E2%9C%85" width="460" />
- <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=mayank0508&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=mayank0508&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 
 <br />
 
