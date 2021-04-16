@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Solidity
 - 👯 I’m looking to collaborate on Blockchain
 - 😄 Pronouns: Football Freak
-- 🎤 Podcast: [CryptoCrazy]
+- 🎤 Podcast: [the Electick Podcast]
 
 <p align="center">
   <a href="https://twitter.com/MayankThakurrr" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
@@ -19,7 +19,7 @@
 </p>
 
 
-[CryptoCrazy]: https://open.spotify.com/show/1K7zRWmSMETlyFTfPU9zD1
+[the Electick Podcast]:https://open.spotify.com/show/1RvUQrI8Tm1Pdxwh65qron?si=a7UKSJqqQICftUAtDMJM3A
 
 
 <p align="center">
