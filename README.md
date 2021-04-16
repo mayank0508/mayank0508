@@ -2,9 +2,8 @@
 
 ### Hey Guys ! 🤘🏻
 
-- 🌱 I’m currently learning Solidity
+- 🌱 I'm Mayank 
 - 👯 I’m looking to collaborate on Blockchain
-- 😄 Pronouns: Football Freak
 - 🎤 Podcast: [the Electick Podcast]
 
 <p align="center">
