@@ -2,7 +2,7 @@
 
 ### Hey Guys ! 🤘🏻
 
-- 🌱 I'm Mayank 
+- 🌱 I'm Mayank, I am currently learning React.js
 - 👯 I’m looking to collaborate on JavaScript Projects
 - 🎤 Podcast: [Console.log("Podcast")]
 
