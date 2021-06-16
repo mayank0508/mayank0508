@@ -3,8 +3,8 @@
 ### Hey Guys ! 🤘🏻
 
 - 🌱 I'm Mayank 
-- 👯 I’m looking to collaborate on Blockchain
-- 🎤 Podcast: [the Electick Podcast]
+- 👯 I’m looking to collaborate on JavaScript Projects
+- 🎤 Podcast: [Console.log("Podcast")]
 
 <p align="center">
   <a href="https://twitter.com/MayankThakurrr" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
@@ -18,7 +18,7 @@
 </p>
 
 
-[the Electick Podcast]:https://open.spotify.com/show/1RvUQrI8Tm1Pdxwh65qron?si=a7UKSJqqQICftUAtDMJM3A
+[the Electick Podcast]:https://open.spotify.com/show/1RvUQrI8Tm1Pdxwh65qron?si=M4QRYJx_SPW91OsbeXVBCg&dl_branch=1
 
 
 <p align="center">
