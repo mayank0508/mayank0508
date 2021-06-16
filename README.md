@@ -18,7 +18,7 @@
 </p>
 
 
-[the Electick Podcast]:https://open.spotify.com/show/1RvUQrI8Tm1Pdxwh65qron?si=M4QRYJx_SPW91OsbeXVBCg&dl_branch=1
+[Console.log("Podcast")]:https://open.spotify.com/show/1RvUQrI8Tm1Pdxwh65qron?si=M4QRYJx_SPW91OsbeXVBCg&dl_branch=1
 
 
 <p align="center">
