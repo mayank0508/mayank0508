@@ -1,11 +1,11 @@
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank0508&theme=highcontrast" />
-
+<!-- <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank0508&theme=highcontrast" /> -->
+<div align='centre'>
 ### Hey Guys ! 🤘🏻
 
 - 🌱 I'm Mayank, I am currently learning React.js
 - 👯 I’m looking to collaborate on JavaScript Projects
 - 🎤 Podcast: [Console.log("Podcast")]
-
+</div>
 
 <p align="center">
   <a href="https://twitter.com/MayankThakurrr" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
