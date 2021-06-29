@@ -8,7 +8,7 @@
   <br />
 -> 👯 I’m looking to collaborate on JavaScript Projects & podcasts 🎤
   <br />
--> 🎤 Podcast: [Console.log("Podcast")]
+-> 🎤 Podcast: <a href="https://open.spotify.com/show/1RvUQrI8Tm1Pdxwh65qron?si=M4QRYJx_SPW91OsbeXVBCg&dl_branch=1">[Console.log("Podcast")]</a>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 </p>
 
 
-[Console.log("Podcast")] :https://open.spotify.com/show/1RvUQrI8Tm1Pdxwh65qron?si=M4QRYJx_SPW91OsbeXVBCg&dl_branch=1
+[Console.log("Podcast")]:https://open.spotify.com/show/1RvUQrI8Tm1Pdxwh65qron?si=M4QRYJx_SPW91OsbeXVBCg&dl_branch=1
 
 
 <p align="center">
