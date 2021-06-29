@@ -1,14 +1,14 @@
 <!-- <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank0508&theme=highcontrast" /> -->
 
 <h3 align='center'> 👋 Hi ! I'm Mayank </h3>
-<p align='center'>
+<p>
 -> 🌱 I am currently learning React.js
   <br />
 -> 💬 Ask me anything about JS, HTML, CSS & React !
   <br />
 -> 👯 I’m looking to collaborate on JavaScript Projects & podcasts 🎤
   <br />
--> 🎤 Podcast: <a href="https://open.spotify.com/show/1RvUQrI8Tm1Pdxwh65qron?si=M4QRYJx_SPW91OsbeXVBCg&dl_branch=1">[Console.log("Podcast")]</a>
+-> 🎤 Podcast: <a href="https://open.spotify.com/show/1RvUQrI8Tm1Pdxwh65qron?si=M4QRYJx_SPW91OsbeXVBCg&dl_branch=1">Console.log("Podcast")</a>
 </p>
 
 <p align="center">
