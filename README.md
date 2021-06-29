@@ -2,10 +2,13 @@
 
 <h3 align='center'> 👋 Hi ! I'm Mayank </h3>
 <p align='center'>
-- 🌱 I am currently learning React.js
-- 💬 Ask me anything about JS, HTML, CSS & React !
-- 👯 I’m looking to collaborate on JavaScript Projects & podcasts 🎤
-- 🎤 Podcast: [Console.log("Podcast")]
+-> 🌱 I am currently learning React.js
+  <br />
+-> 💬 Ask me anything about JS, HTML, CSS & React !
+  <br />
+-> 👯 I’m looking to collaborate on JavaScript Projects & podcasts 🎤
+  <br />
+-> 🎤 Podcast: [Console.log("Podcast")]
 </p>
 
 <p align="center">
