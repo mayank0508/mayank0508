@@ -1,7 +1,7 @@
 <!-- <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank0508&theme=highcontrast" /> -->
 
-<h3 align='centre'> 👋 Hi ! I'm Mayank </h3>
-<p align='centre'>
+<h3 align='centee'> 👋 Hi ! I'm Mayank </h3>
+<p align='center'>
 - 🌱 I am currently learning React.js
 - 💬 Ask me anything about JS, HTML, CSS & React !
 - 👯 I’m looking to collaborate on JavaScript Projects & podcasts 🎤
