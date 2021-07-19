@@ -8,6 +8,8 @@
   <br />
 -> 👯 I’m looking to collaborate on JavaScript Projects & podcasts 🎤
   <br />
+-> 📺 Youtube Channel: <a href='https://cutt.ly/HmN4NZ0'>Console.log('Podcast')</a>
+  </br>
 -> 🎤 Podcast: <a href="https://open.spotify.com/show/1RvUQrI8Tm1Pdxwh65qron?si=M4QRYJx_SPW91OsbeXVBCg&dl_branch=1">Console.log("Podcast")</a>
   <br />
 -> 🖋 BLog : <a href="https://dev.to/mayank0508">DEV</a>
