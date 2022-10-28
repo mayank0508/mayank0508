@@ -1,7 +1,7 @@
 <!-- <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank0508&theme=highcontrast" /> -->
 
 <h1 align='center'> 👋 Hi ! I'm Mayank </h1>
-<p>
+<!-- <p>
 -> 🌱 I am currently learning React.js
   <br />
 -> 💬 Ask me anything about JS, HTML, CSS & React !
@@ -33,3 +33,4 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=mayank0508&color=bb54ff&label=Profile%20visits&style=flat-square" />
 </p>
+ -->
