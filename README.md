@@ -1,6 +1,6 @@
 <!-- <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank0508&theme=highcontrast" /> -->
 
-<h1 align='center'> i just love tech 👾 </h1>
+<h1 align='center'>👾</h1>
 <!-- <p>
 -> 🌱 I am currently learning React.js
   <br />
